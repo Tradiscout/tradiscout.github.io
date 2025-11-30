@@ -136,17 +136,8 @@ footer {
   background: #1DB954;          /* Spotify Green officiel */ 
 }
 .instagram{ 
-  background: linear-gradient(
-    90deg,
-    #405DE6,  /* Royal Blue */
-    #833AB4,  /* Purple */
-    #C13584,  /* Dark Pink */
-    #E1306C,  /* Purple-Red */
-    #FD1D1D,  /* Red */
-    #F56040,  /* Dark Orange */
-    #FCAF45,  /* Yellow */
-    #FFDC80   /* Light Yellow */
-  );                               /* Dégradé proche du logo Instagram */ 
+  background: #F56040;
+                                /* Dégradé proche du logo Instagram */ 
 }
 
 /* Responsif */
