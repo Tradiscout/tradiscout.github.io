@@ -125,11 +125,29 @@ footer {
   filter: brightness(1.05);
 }
 
-/* Couleurs type screenshot */
-.pinterest { background: #e60023; }      /* Pinterest */ 
-.deezer   { background: #ff2ab2; }      /* Deezer */ [web:41][web:43]
-.spotify  { background: #1db954; }      /* Spotify */ [web:49]
-.instagram{ background: linear-gradient(90deg,#f58529,#dd2a7b,#8134af,#515bd4); } /* Instagram */ [web:49]
+/* Couleurs officielles */
+.pinterest { 
+  background: #E60023;          /* Pinterest Red officiel */ 
+}
+.deezer   { 
+  background: #9B26FF;          /* Deezer Violet officiel */ 
+}
+.spotify  { 
+  background: #1DB954;          /* Spotify Green officiel */ 
+}
+.instagram{ 
+  background: linear-gradient(
+    90deg,
+    #405DE6,  /* Royal Blue */
+    #833AB4,  /* Purple */
+    #C13584,  /* Dark Pink */
+    #E1306C,  /* Purple-Red */
+    #FD1D1D,  /* Red */
+    #F56040,  /* Dark Orange */
+    #FCAF45,  /* Yellow */
+    #FFDC80   /* Light Yellow */
+  );                               /* Dégradé proche du logo Instagram */ 
+}
 
 /* Responsif */
 @media (max-width: 768px) {
