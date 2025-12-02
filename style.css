@@ -127,17 +127,16 @@ footer {
 
 /* Couleurs officielles */
 .pinterest { 
-  background: #E60023;          /* Pinterest Red officiel */ 
+  background: #E60023;        
 }
 .deezer   { 
-  background: #9B26FF;          /* Deezer Violet officiel */ 
+  background: #9B26FF;         
 }
 .spotify  { 
-  background: #1DB954;          /* Spotify Green officiel */ 
+  background: #1DB954;         
 }
 .instagram{ 
   background: #F56040;
-                                /* Dégradé proche du logo Instagram */ 
 }
 
 /* Responsif */
