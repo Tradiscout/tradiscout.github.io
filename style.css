@@ -1,11 +1,11 @@
-/* Reset de base */
+/* resettt */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Corps de page */
+/* bodyyy */
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.6;
@@ -16,7 +16,7 @@ body {
   padding: 40px 24px;
 }
 
-/* Header */
+/* headerrr */
 header {
   margin-bottom: 32px;
 }
