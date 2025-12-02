@@ -140,7 +140,7 @@ footer {
 }
 
 /* Responsif */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   body {
     padding: 24px 16px;
   }
@@ -157,5 +157,23 @@ footer {
   
   section {
     padding: 20px 16px;
+  }
+} */
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  nav {
+    font-size: 0.85rem;
+    gap: 8px;
+  }
+  section h2 {
+    font-size: 1.4rem;
+  }
+  .social-btn {
+    min-width: 100px;
+    padding: 8px 16px;
+    font-size: 12px;
   }
 }
